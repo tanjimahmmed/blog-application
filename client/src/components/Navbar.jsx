@@ -11,7 +11,7 @@ const navigate = useNavigate();
             <img src={assets.arrow} className='w-3' alt="arrow" />
         </button>
     </div>
-  )
+  ) 
 }
 
 export default Navbar
